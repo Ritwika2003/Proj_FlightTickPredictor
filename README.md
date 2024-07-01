@@ -1,2 +1,2 @@
 # Proj_FlightTickPredictor
-Designed and implemented a flight ticket predictor model using Machine Learning dataset using essential exploratory data analysis techniques then will draw some predictions about the price of the flight based on some features
+Designed and implemented a flight ticket price prediction model using a dataset for machine learning. Applied essential exploratory data analysis techniques and made predictions about the flight prices based on specific features.
